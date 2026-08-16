@@ -13,6 +13,14 @@ The automation framework is developed using:
 
 A total of **8 functional test cases** have been automated from the manual test cases created in Part 1.
 
+The automation suite covers:
+
+- Login
+- Product Listing
+- Product Sorting
+- Shopping Cart
+- Checkout Navigation
+
 ---
 
 ## 🌐 Application Under Test
@@ -54,26 +62,6 @@ The objective of this automation project is to:
 
 ---
 
-
-## How to Run Automated Tests
-
-### Run the Complete Automation Suite
-
-From the project root directory, run:
-
-```bash
-python -m pytest -v
-
-Run a Specific Test File
-
-Run login tests:
-
-python -m pytest tests/test_login.py -v
-python -m pytest tests/test_products.py -v
-python -m pytest tests/test_cart.py -v
-python -m pytest tests/test_checkout.py -v
-
-
 # 📂 Project Structure
 
 ```text
@@ -85,8 +73,10 @@ Part-3-Test-Automation/
 │   ├── test_cart.py
 │   └── test_checkout.py
 │
+├── screenshots/
+│   └── test-execution.png
+│
 ├── conftest.py
 ├── pytest.ini
 ├── requirements.txt
 └── README.md
-
