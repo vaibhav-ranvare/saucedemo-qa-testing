@@ -48,6 +48,7 @@ The objective of this automation project is to:
 
 ---
 
+
 # 🛠️ Technology Stack
 
 | Technology | Purpose |
@@ -62,13 +63,12 @@ The objective of this automation project is to:
 
 ---
 
-### ⚠️ One important point about your screenshot
 
-Your screenshot URL:
+<img width="1920" height="1080" alt="Screenshot (85)" src="https://github.com/user-attachments/assets/6b74ca99-3439-45a6-b11f-e1034c7e6eef" />
 
-```html
-<img width="1920" height="1080" alt="Screenshot (85)" src="https://github.com/user-attachments/assets/4deb4b97-5c8b-4e70-90b5-f4804efaec64" />
 
+
+---
 
 # 📂 Project Structure
 
