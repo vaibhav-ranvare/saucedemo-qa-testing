@@ -54,6 +54,26 @@ The objective of this automation project is to:
 
 ---
 
+
+## How to Run Automated Tests
+
+### Run the Complete Automation Suite
+
+From the project root directory, run:
+
+```bash
+python -m pytest -v
+
+Run a Specific Test File
+
+Run login tests:
+
+python -m pytest tests/test_login.py -v
+python -m pytest tests/test_products.py -v
+python -m pytest tests/test_cart.py -v
+python -m pytest tests/test_checkout.py -v
+
+
 # 📂 Project Structure
 
 ```text
@@ -70,4 +90,3 @@ Part-3-Test-Automation/
 ├── requirements.txt
 └── README.md
 
-<img width="1920" height="1080" alt="Screenshot (85)" src="https://github.com/user-attachments/assets/948dfb0d-1111-4e52-880f-d6445ed3f097" />
