@@ -92,6 +92,7 @@ The tests validate both **status codes AND response body shape**, rather than ch
   - `avatar`
 
 ---
+
 <img width="1920" height="1080" alt="Screenshot (86)" src="https://github.com/user-attachments/assets/97cb5be7-63c7-4d3a-967a-8d2bbb03a755" />
 
 
