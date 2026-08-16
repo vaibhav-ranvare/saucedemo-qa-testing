@@ -62,6 +62,14 @@ The objective of this automation project is to:
 
 ---
 
+### ⚠️ One important point about your screenshot
+
+Your screenshot URL:
+
+```html
+<img width="1920" height="1080" alt="Screenshot (85)" src="https://github.com/user-attachments/assets/4deb4b97-5c8b-4e70-90b5-f4804efaec64" />
+
+
 # 📂 Project Structure
 
 ```text
@@ -72,9 +80,6 @@ Part-3-Test-Automation/
 │   ├── test_products.py
 │   ├── test_cart.py
 │   └── test_checkout.py
-│
-├── screenshots/
-│   └── test-execution.png
 │
 ├── conftest.py
 ├── pytest.ini
