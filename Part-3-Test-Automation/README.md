@@ -69,3 +69,5 @@ Part-3-Test-Automation/
 ├── pytest.ini
 ├── requirements.txt
 └── README.md
+
+<img width="1920" height="1080" alt="Screenshot (85)" src="https://github.com/user-attachments/assets/948dfb0d-1111-4e52-880f-d6445ed3f097" />
