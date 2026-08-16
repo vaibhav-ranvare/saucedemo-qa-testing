@@ -67,7 +67,6 @@ The objective of this automation project is to:
 <img width="1920" height="1080" alt="Screenshot (85)" src="https://github.com/user-attachments/assets/6b74ca99-3439-45a6-b11f-e1034c7e6eef" />
 
 
-
 ---
 
 # 📂 Project Structure
@@ -85,3 +84,15 @@ Part-3-Test-Automation/
 ├── pytest.ini
 ├── requirements.txt
 └── README.md
+
+
+---
+
+## ▶️ How to Run Automated Tests
+
+### Option 1 — Using Python Module
+
+From the project root directory:
+
+```bash
+python -m pytest -v
